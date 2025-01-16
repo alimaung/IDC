@@ -1,0 +1,6 @@
+00028568,1,16-05-2024,14:39:37.752,APP,DCore::DCore,Application starting, version, V0.5-b061
+00028568,1,16-05-2024,14:39:37.762,APP,DCore::initClass,Reading the configuration from file: E:\IDC_Version\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+00028568,1,16-05-2024,14:39:37.763,APP,DCore::initClass,Configuration is read from file: E:\IDC_Version\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+00028568,1,16-05-2024,14:39:37.764,APP,DCore::initClass,Creating the Timer class
+00028568,1,16-05-2024,14:39:37.789,APP,DCore::initClass,Application is booted, commencing normal operation
+00028568,1,16-05-2024,14:39:37.789,APP,DCore::initClass,Reading the configuration from file: E:\IDC_Version\IDC_V0.5-b061\IDC_V0.5-b061\store.dat

@@ -1,0 +1,6 @@
+00005E10,1,01-08-2024,11:15:19.682,APP,DCore::DCore,Application starting, version, V0.5-b061
+00005E10,1,01-08-2024,11:15:19.694,APP,DCore::initClass,Reading the configuration from file: C:\Users\smd\Desktop\Ali\Automation\IDC\IDC_V0.5-b061\app.cfg
+00005E10,1,01-08-2024,11:15:19.703,APP,DCore::initClass,Configuration is read from file: C:\Users\smd\Desktop\Ali\Automation\IDC\IDC_V0.5-b061\app.cfg
+00005E10,1,01-08-2024,11:15:19.704,APP,DCore::initClass,Creating the Timer class
+00005E10,1,01-08-2024,11:15:19.736,APP,DCore::initClass,Application is booted, commencing normal operation
+00005E10,1,01-08-2024,11:15:19.736,APP,DCore::initClass,Reading the configuration from file: C:\Users\smd\Desktop\Ali\Automation\IDC\IDC_V0.5-b061\store.dat

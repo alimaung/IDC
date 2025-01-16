@@ -1,0 +1,24 @@
+00005510,1,25-05-2024,04:32:20.945,APP,DCore::DCore,Application starting, version, V0.5-b061
+00005510,1,25-05-2024,04:32:20.949,APP,DCore::initClass,Reading the configuration from file: C:\Users\EOL2\OneDrive - Solarnative GmbH\Desktop\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+00005510,1,25-05-2024,04:32:20.956,APP,DCore::initClass,Configuration is read from file: C:\Users\EOL2\OneDrive - Solarnative GmbH\Desktop\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+00005510,1,25-05-2024,04:32:20.956,APP,DCore::initClass,Creating the Timer class
+00005510,1,25-05-2024,04:32:20.997,APP,DCore::initClass,Application is booted, commencing normal operation
+00005510,1,25-05-2024,04:32:20.997,APP,DCore::initClass,Reading the configuration from file: C:\Users\EOL2\OneDrive - Solarnative GmbH\Desktop\IDC_V0.5-b061\IDC_V0.5-b061\store.dat
+000076FC,1,25-05-2024,05:12:51.927,APP,DCore::DCore,Application starting, version, V0.5-b061
+000076FC,1,25-05-2024,05:12:51.954,APP,DCore::initClass,Reading the configuration from file: C:\Users\smd\Downloads\IDC_V0.5-b061\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+000076FC,1,25-05-2024,05:12:51.954,APP,DCore::initClass,Configuration is read from file: C:\Users\smd\Downloads\IDC_V0.5-b061\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+000076FC,1,25-05-2024,05:12:51.955,APP,DCore::initClass,Creating the Timer class
+000076FC,1,25-05-2024,05:12:51.991,APP,DCore::initClass,Application is booted, commencing normal operation
+000076FC,1,25-05-2024,05:12:51.991,APP,DCore::initClass,Reading the configuration from file: C:\Users\smd\Downloads\IDC_V0.5-b061\IDC_V0.5-b061\IDC_V0.5-b061\store.dat
+00007398,1,25-05-2024,05:35:36.550,APP,DCore::DCore,Application starting, version, V0.5-b061
+00007398,1,25-05-2024,05:35:36.550,APP,DCore::initClass,Reading the configuration from file: C:\Users\smd\Desktop\Ali\INVERTER\IDC_V0.5-b061\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+00007398,1,25-05-2024,05:35:36.550,APP,DCore::initClass,Configuration is read from file: C:\Users\smd\Desktop\Ali\INVERTER\IDC_V0.5-b061\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+00007398,1,25-05-2024,05:35:36.550,APP,DCore::initClass,Creating the Timer class
+00007398,1,25-05-2024,05:35:36.597,APP,DCore::initClass,Application is booted, commencing normal operation
+00007398,1,25-05-2024,05:35:36.597,APP,DCore::initClass,Reading the configuration from file: C:\Users\smd\Desktop\Ali\INVERTER\IDC_V0.5-b061\IDC_V0.5-b061\IDC_V0.5-b061\store.dat
+00003558,1,25-05-2024,05:46:17.362,APP,DCore::DCore,Application starting, version, V0.5-b061
+00003558,1,25-05-2024,05:46:17.378,APP,DCore::initClass,Reading the configuration from file: C:\Users\smd\Desktop\Ali\INVERTER\IDC_V0.5-b061\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+00003558,1,25-05-2024,05:46:17.378,APP,DCore::initClass,Configuration is read from file: C:\Users\smd\Desktop\Ali\INVERTER\IDC_V0.5-b061\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+00003558,1,25-05-2024,05:46:17.378,APP,DCore::initClass,Creating the Timer class
+00003558,1,25-05-2024,05:46:17.425,APP,DCore::initClass,Application is booted, commencing normal operation
+00003558,1,25-05-2024,05:46:17.425,APP,DCore::initClass,Reading the configuration from file: C:\Users\smd\Desktop\Ali\INVERTER\IDC_V0.5-b061\IDC_V0.5-b061\IDC_V0.5-b061\store.dat

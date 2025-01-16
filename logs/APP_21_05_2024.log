@@ -1,0 +1,6 @@
+00002DF8,1,21-05-2024,07:52:14.706,APP,DCore::DCore,Application starting, version, V0.5-b061
+00002DF8,1,21-05-2024,07:52:14.710,APP,DCore::initClass,Reading the configuration from file: C:\Users\EOL2\OneDrive - Solarnative GmbH\Desktop\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+00002DF8,1,21-05-2024,07:52:14.710,APP,DCore::initClass,Configuration is read from file: C:\Users\EOL2\OneDrive - Solarnative GmbH\Desktop\IDC_V0.5-b061\IDC_V0.5-b061\app.cfg
+00002DF8,1,21-05-2024,07:52:14.711,APP,DCore::initClass,Creating the Timer class
+00002DF8,1,21-05-2024,07:52:14.747,APP,DCore::initClass,Application is booted, commencing normal operation
+00002DF8,1,21-05-2024,07:52:14.747,APP,DCore::initClass,Reading the configuration from file: C:\Users\EOL2\OneDrive - Solarnative GmbH\Desktop\IDC_V0.5-b061\IDC_V0.5-b061\store.dat
